@@ -1,1 +1,2 @@
-# quizcode
+# quiz code
+http://www.queercode.net/
