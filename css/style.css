@@ -1,7 +1,6 @@
 body {
   font-family: DIN Next Light, Arial, Helvetica, sans-serif;
-  background-image: url(https://raw.githubusercontent.com/QueerCode/quizcode/master/images/queerquiz_homepage.png);
-  background-image: url(https://raw.githubusercontent.com/QueerCode/quizcode/master/images/background_quiz.gif);
+  background-image: url(https://github.com/QueerCode/quizcode/blob/src/images/background_quiz.gif?raw=true);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
