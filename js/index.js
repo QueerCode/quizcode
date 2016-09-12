@@ -18,7 +18,7 @@ $('#quiz').quiz({
 		"Ruth et Monika"
       ],
       'correctIndex': 1, 
-      'correctResponse': ('<img src="https://raw.githubusercontent.com/QueerCode/quizcode/master/images/licorne_correct.PNG" id="licrone" style="float:left;"/>' + "<p> <b>Aimée et Jaguar</b></p>L’écrivaine allemande juive Erica Fisher rencontre en 1991 pour la 1ère fois Elisabeth Wust, dite Aimée. Cette dernière témoignera de son histoire d’amour avec Felice Schragenheim dite Jaguar. Elle confiera à l’écrivaine son journal intime, sa correspondance et des documents de Felice afin qu’elle puisse rédiger l’ouvrage <I>Aimée et Jaguar</I>. Les deux amoureuses allemandes se sont donné ces noms « doux » et de code, qui ont été choisis comme titre au livre d’Erica Fisher et également au film de fiction tirée de cette histoire bouleversante."),
+      'correctResponse': ('<img src="quizcode/images/licorne_correct.PNG" id="licrone" style="float:left;"/>' + "<p> <b>Aimée et Jaguar</b></p>L’écrivaine allemande juive Erica Fisher rencontre en 1991 pour la 1ère fois Elisabeth Wust, dite Aimée. Cette dernière témoignera de son histoire d’amour avec Felice Schragenheim dite Jaguar. Elle confiera à l’écrivaine son journal intime, sa correspondance et des documents de Felice afin qu’elle puisse rédiger l’ouvrage <I>Aimée et Jaguar</I>. Les deux amoureuses allemandes se sont donné ces noms « doux » et de code, qui ont été choisis comme titre au livre d’Erica Fisher et également au film de fiction tirée de cette histoire bouleversante."),
       'incorrectResponse': ('<img src="https://raw.githubusercontent.com/QueerCode/quizcode/master/images/licorne_incorrect.PNG" id="licrone" style="float:left;"/>' + "<p><b>Aimée et Jaguar</b></p>L’écrivaine allemande juive Erica Fisher rencontre en 1991 pour la 1ère fois Elisabeth Wust, dite Aimée. Cette dernière témoignera de son histoire d’amour avec Felice Schragenheim dite Jaguar. Elle confiera à l’écrivaine son journal intime, sa correspondance et des documents de Felice afin qu’elle puisse rédiger l’ouvrage <I>Aimée et Jaguar</I>. Les deux amoureuses allemandes se sont donné ces noms « doux » et de code, qui ont été choisis comme titre au livre d’Erica Fisher et également au film de fiction tirée de cette histoire bouleversante.")
 	},
     {
@@ -29,7 +29,7 @@ $('#quiz').quiz({
         "Cate Blanchett"
       ],
       'correctIndex': 2,
-      'correctResponse': ('<img src="https://raw.githubusercontent.com/QueerCode/quizcode/master/images/licorne_correct.PNG" alt="" style="float:left;"/>' + "<p><b>Cate Blanchett</b></p>L’actrice américaine y incarne une héroïne hétérosexuelle, un stéréotype de la française aux mœurs légères, bien loin de l’identité et de l’orientation sexuelle de Rose Valland."),
+      'correctResponse': ('<img src="quizcode/images/licorne_correct.PNG" alt="" style="float:left;"/>' + "<p><b>Cate Blanchett</b></p>L’actrice américaine y incarne une héroïne hétérosexuelle, un stéréotype de la française aux mœurs légères, bien loin de l’identité et de l’orientation sexuelle de Rose Valland."),
       'incorrectResponse': ('<img src="https://raw.githubusercontent.com/QueerCode/quizcode/master/images/licorne_incorrect.PNG" alt="" style="float:left;"/>' + "<p><b>Cate Blanchett</b></p>L’actrice américaine y incarne une héroïne hétérosexuelle, un stéréotype de la française aux mœurs légères, bien loin de l’identité et de l’orientation sexuelle de Rose Valland.")
    	},
     {
