@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-image: url(https://frama.link/backgroundquiz_queercode);
+  background-image: url(https://cdn.rawgit.com/QueerCode/quizcode/src/images/background_quiz.gif?raw=true);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
