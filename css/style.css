@@ -3,12 +3,17 @@ html {
 }
 
 body {
-  background-image: url(https://github.com/QueerCode/quizcode/blob/src/images/background_quiz.gif?raw=true);
+  background-image: url(https://frama.link/backgroundquiz_queercode);
   background-position: center;
-  background-size: cover;
   background-attachment: fixed;
+  background-size: cover;
   background-repeat:no-repeat;
   color: #fff;
+}
+
+img {
+	max-width: 100%;
+    height: auto;
 }
 
 h1 {
@@ -101,7 +106,7 @@ h4 {
 .quiz-button {
 	position: relative;
 	float: right;
-	top: 35em;
+	top: 15em;
 }
 
 #quiz-buttons a {
